@@ -186,13 +186,11 @@
     }
 
     #search {
-        /* margin: 1.9rem auto; */
-        /* padding-left: 4rem; */
         outline: none;
         border: none;
         width: 65%;
         font-size: 26px;
-        padding: 7px 6px;
+        padding: 5px 6px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -200,6 +198,7 @@
         border-top-right-radius: 33px;
         background-color: black;
         padding-bottom: 13px;
+        color:white
     }
 
     .form {
