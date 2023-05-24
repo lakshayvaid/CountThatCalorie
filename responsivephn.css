@@ -1,10 +1,10 @@
 @media(max-width:550px) and (min-width:325px) {
-    body{
+    body {
         /* background-color: red; */
     }
 
     /* navigation bar */
-    #menu{
+    #menu {
         display: none;
     }
 
@@ -25,7 +25,7 @@
     }
 
     .startcountingbtn {
-        margin-top: 19.9rem;
+        margin-top: 16.9rem;
     }
 
 
@@ -75,7 +75,7 @@
     }
 
     .searchcontainer {
-        background-image: linear-gradient(101deg, #f8ffae,#43c6ac);
+        background-image: linear-gradient(101deg, #f8ffae, #43c6ac);
         width: 100%;
         height: 92vh;
         display: flex;
@@ -87,4 +87,84 @@
         display: none;
         padding-top: 12%;
     }
+
+    /* ------------ this is about result page ------------ */
+    .fooditemsearched {
+        margin-top: 19px;
+        font-family: Rubik latin, Rubik latin-ext, Rubik cryllic, Noto Sans JP, Noto Sans SC, Noto Sans KR, Noto Sans EL, Helvetica, Arial, sans-serif;
+        border: none;
+        font-weight: 400;
+        color: black;
+        font-size: 13px;
+        margin-left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 25px;
+    }
+
+    .pvalue,
+    .fvalue,
+    .cvalue {
+        font-size: 25px;
+        font-weight: bold;
+        /* color: #2e3c42; */
+        color: whitesmoke;
+    }
+
+    .caloricvalue,
+    .proteinvalue,
+    .fatvalue {
+        font-size: 25px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 10%;
+        height: auto;
+        padding: 6px 5px;
+    }
+
+    .nutritionvalue {
+        display: flex;
+        flex-direction: column;
+        width: 75%;
+        padding: 30px 8px;
+        height: auto;
+    }
+
+    .result {
+        height: 91vh;
+    }
+
+    .searchagaindiv p {
+        font-size: 23px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 9px 24px;
+        text-align: center;
+    }
+
+    .searchagain {
+        text-decoration: none;
+        background-color: red;
+        font-family: 'Roboto', sans-serif;
+        font-size: 17px;
+        width: 10rem;
+        height: auto;
+        padding: 10px 5px;
+        color: black;
+        font-weight: bold;
+        border-radius: 4rem;
+        outline: none;
+        border: none;
+        font-family: system-ui;
+    }
+
+    .searchagain:hover {
+        color: white;
+        background-color: #ff0000a8;
+        box-shadow: none;
+    }
+
 }
