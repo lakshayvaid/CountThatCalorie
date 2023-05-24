@@ -9,13 +9,15 @@
     }
 
     #qline {
-        color: whitesmoke;
-        font-size: 27px;
-        text-align: center;
-        /* font-weight: 900; */
-        padding: 40px 36px;
-        font-family: 'Roboto', sans-serif;
-        font-weight: bold;
+          color: whitesmoke;
+    font-size: 27px;
+    text-align: center;
+    /* font-weight: 900; */
+    padding: 40px 36px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-family: system-ui;
+    opacity: 0.5;
     }
 
 
