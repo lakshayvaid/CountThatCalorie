@@ -147,7 +147,7 @@
 
     .searchagain {
         text-decoration: none;
-        background: linear-gradient(101deg,#f7681c,#e91e63);
+        background-color: #f7681c;
         font-family: 'Roboto', sans-serif;
         font-size: 17px;
         width: 10rem;
@@ -163,7 +163,6 @@
 
     .searchagain:hover {
         color: white;
-        background: linear-gradient(101deg,#e91e63,#f7681c);
         box-shadow: none;
     }
 
