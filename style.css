@@ -220,8 +220,7 @@ font-family: 'Roboto', sans-serif;
 
 #scbtn{
     font-family: 'Roboto', sans-serif;  
-font-size: 2.8rem;
-
+    font-size: 2.8rem;
     width:30rem;
     height: 5.4rem;
     background-color: transparent;
@@ -249,7 +248,7 @@ font-size: 2.8rem;
     color:rgba(255, 255, 255, 0.93);
     /* color:rgba(255, 255, 255, 0.734); */
     /* font-family: 'Roboto', sans-serif; */
-    font-size:3.2rem;
+    /*font-size:3.2rem;*/
     /* background-color: rgb(251, 121, 0); */
     border:none;
     cursor: pointer;
