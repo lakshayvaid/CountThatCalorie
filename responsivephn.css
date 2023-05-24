@@ -33,26 +33,27 @@
 
 
 
-    #heading2 {
-        margin-top: 9rem;
-        padding-bottom: 20px;
-        display: flex;
-        /* justify-content: center; */
-        /* align-items: center; */
-        /* border: 2px solid white; */
-        /* padding: 1rem; */
-        /* font-family: sans-serif; */
-        /* color: rgba(245, 245, 245, 0.855); */
-        color: rgb(236, 234, 234);
-        font-size: 18px;
-        font-weight: 900;
-        letter-spacing: 1px;
-        word-spacing: 2px;
-        /* font-family: 'Merienda'; */
-        opacity: 28;
-        color: black;
-    }
-
+   #heading2 {
+    margin-top: 5rem;
+    padding-bottom: 87px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* border: 2px solid white; */
+    /* padding: 1rem; */
+    /* font-family: sans-serif; */
+    /* color: rgba(245, 245, 245, 0.855); */
+    color: rgb(236, 234, 234);
+    font-size: 18px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    /* font-family: 'Merienda'; */
+    opacity: 28;
+    color: white;
+    opacity: 0.5;
+    text-shadow: 1px 5px 16px black;
+}
 
     .caloriesearchbutton {
         text-decoration: none;
