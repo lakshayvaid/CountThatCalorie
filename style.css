@@ -147,6 +147,7 @@ font-family: 'Roboto', sans-serif;
     font-size: 26px;
     padding: 7px 19px;
     display: flex;
+    color:white;
     align-items: center;
     justify-content: center;
     border-bottom-right-radius: 33px;
@@ -244,7 +245,7 @@ font-family: 'Roboto', sans-serif;
     color:rgba(255, 255, 255, 0.93);
     /* color:rgba(255, 255, 255, 0.734); */
     /* font-family: 'Roboto', sans-serif; */
-    /*font-size:3.2rem;*/
+    font-size:3.2rem;
     /* background-color: rgb(251, 121, 0); */
     border:none;
     cursor: pointer;
